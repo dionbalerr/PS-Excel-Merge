@@ -1,4 +1,3 @@
-HEAD
 # PS Excel Merge
 
 PS Excel Merge is written in Python openpyxl to deal with automating VLOOKUP .dbf files (DELIVERY, DRIVER and DELISITE). 
